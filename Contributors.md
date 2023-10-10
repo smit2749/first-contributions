@@ -1,5 +1,6 @@
 
 # Contributors
+- [Smit Patel](https://github.com/smit2749).
 - [Salar Loran Telo](https://github.com/SalarTelo)
 -[Kushal Agrawal](https://github.com/kushal34712)
 - [Luke Stump](https://github.com/LukeStump419)
